@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "repository": {
+    "id": "music_and_melody",
+    "name": "Music & Melody Remote Albums"
+  },
+  "packs": [
+    {
+      "id": "minecraft_dungeons:minecraft_dungeons",
+      "name": "Minecraft Dungeons",
+      "description": "Full base Minecraft Dungeons OST",
+      "version": "1.0.0",
+      "url": "packs/minecraft_dungeons-1.0.0.zip",
+      "sha256": "...",
+      "size": 12345678,
+      "icon": "minecraft_dungeons:minecraft_dungeons.png"
+    }
+  ]
+}
