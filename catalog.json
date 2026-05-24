@@ -9,10 +9,10 @@
       "id": "minecraft_dungeons:minecraft_dungeons",
       "name": "Minecraft Dungeons",
       "description": "Full base Minecraft Dungeons OST",
-      "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/Rebel459/music-and-melody-remote/main/minecraft_dungeons_update_test.zip",
-      "sha256": "00cc46cf092718fcdc4d4c472eb61762774780c74c374f184188d792af2bddc9",
-      "size": 5063582,
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/releases/download/minecraft_dungeons/minecraft-dungeons-1.0.0.zip",
+      "sha256": "b54896c3cd62d3056cd755e405c8a37125ede02b5a3f2baacd1db0eecd4765a0",
+      "size": 255377831,
       "icon": "minecraft_dungeons:minecraft_dungeons.png"
     }
   ]
