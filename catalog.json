@@ -14,6 +14,16 @@
       "sha256": "62b8779de1aa435e04180542f02c333702a3db31b71cb4f388dfd1755c391391",
       "size": 255377562,
       "icon": "music_and_melody:textures/album/minecraft_dungeons.png"
+    },
+    {
+      "id": "music_and_melody:the_garden_awakens",
+      "name": "The Garden Awakens",
+      "description": "Official sountrack for The Garden Awakens",
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/releases/download/minecraft/the-garden-awakens-1.0.0.zip",
+      "sha256": "034982e4b293574f53662ed01844b9ae6ddee6e4371320e8fcb3f8f571a9afaf",
+      "size": 33044710,
+      "icon": "music_and_melody:textures/album/the_garden_awakens.png"
     }
   ]
 }
