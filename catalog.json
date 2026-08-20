@@ -14,7 +14,7 @@
       "sha256": "62b8779de1aa435e04180542f02c333702a3db31b71cb4f388dfd1755c391391",
       "size": 255377562,
       "icon": "music_and_melody:textures/album/minecraft_dungeons.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:creeping_winter",
@@ -25,7 +25,7 @@
       "sha256": "a470ff89e14e13d883c81d8a73906d3c6e8b9d59f6cf06e7be246bfe0b7e35da",
       "size": 106151099,
       "icon": "music_and_melody:textures/album/dungeons/creeping_winter.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:echoing_void",
@@ -36,7 +36,7 @@
       "sha256": "953214bb7e09df11ab10329f78575500168be4bad4b754623a71f6f066b2ddb4",
       "size": 93656730,
       "icon": "music_and_melody:textures/album/dungeons/echoing_void.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:flames_of_the_nether",
@@ -47,7 +47,7 @@
       "sha256": "a43540dee54c10884b5179922605da867deb1e6518f5bb7ee6c109009e3af950",
       "size": 105392445,
       "icon": "music_and_melody:textures/album/dungeons/flames_of_the_nether.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:howling_peaks",
@@ -58,7 +58,7 @@
       "sha256": "18cc69a56c9c344e363dbf2074e5be315c573c8e12cfd522400ca9d723dc8165",
       "size": 150193447,
       "icon": "music_and_melody:textures/album/dungeons/howling_peaks.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:jungle_awakens",
@@ -69,7 +69,7 @@
       "sha256": "a73ca8442e96b83fc87ced0b6bc78156620cd60a45c3390efaa14aefb7928344",
       "size": 78905675,
       "icon": "music_and_melody:textures/album/dungeons/jungle_awakens.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:seasonal_adventures",
@@ -80,7 +80,7 @@
       "sha256": "3dcdf0b83fd6c5129943f8a72b57d238322c38e5fd1e8fc2d03ceed6c92cd8b1",
       "size": 40524801,
       "icon": "music_and_melody:textures/album/dungeons/seasonal_adventures.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:ultimate_additions",
@@ -91,7 +91,7 @@
       "sha256": "d43fa24e57a39d51672d17852f7e25efeff9042a6330d4e4212c381bf912d0d2",
       "size": 22940693,
       "icon": "music_and_melody:textures/album/dungeons/ultimate_additions.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:the_garden_awakens",
@@ -102,7 +102,7 @@
       "sha256": "034982e4b293574f53662ed01844b9ae6ddee6e4371320e8fcb3f8f571a9afaf",
       "size": 33044710,
       "icon": "music_and_melody:textures/album/the_garden_awakens.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:battle_mini_game",
@@ -113,7 +113,7 @@
       "sha256": "cecf5a4dd14f1d0e202137354a6e019499b32c64321eb36f9a4fed9f9cf32981",
       "size": 184841401,
       "icon": "music_and_melody:textures/album/battle_mini_game.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:tumble_mini_game",
@@ -124,7 +124,7 @@
       "sha256": "14687e483fe8c88850e77d5e567e162a7da52b8aaa4ae4dd8d143356fdd15eee",
       "size": 21262006,
       "icon": "music_and_melody:textures/album/tumble_mini_game.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:glide_mini_game",
@@ -135,7 +135,7 @@
       "sha256": "e1689092374073768a750a02aa85fe82e583a8f18666fde356505539fd142287",
       "size": 83097922,
       "icon": "music_and_melody:textures/album/glide_mini_game.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:minecraft_legends",
@@ -146,7 +146,7 @@
       "sha256": "9050ec9b3bee2ef00acebcc822a0d986772b9f9cc505fcc6e3634e3d11746fe7",
       "size": 143024731,
       "icon": "music_and_melody:textures/album/minecraft_legends.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:minecraft_story_mode",
@@ -157,7 +157,7 @@
       "sha256": "a6688f9f4f3b11d53f74c8858361108bda5b07c9719bb5fe56d089b0cf33fa89",
       "size": 283936645,
       "icon": "music_and_melody:textures/album/minecraft_story_mode.png",
-      "tag": "album"
+      "tags": ["album"]
     },
     {
       "id": "music_and_melody:minecraft_story_mode_season_two",
@@ -168,7 +168,7 @@
       "sha256": "4c95cf415a232e8c3b45305b1cf50c0f60c9af8671c399f992cad39182d720cc",
       "size": 281079896,
       "icon": "music_and_melody:textures/album/minecraft_story_mode_season_two.png",
-      "tag": "album"
+      "tags": ["album"]
     }
   ]
 }
