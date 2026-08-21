@@ -4,5 +4,17 @@
     "id": "mam_supporter_themes",
     "name": "Supporter-Exclusive Themes"
   },
-  "packs": []
+  "packs": [
+    {
+      "id": "music_and_melody:ketchup_and_mustard",
+      "name": "Ketchup & Mustard",
+      "description": "A fun red-yellow theme",
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/blob/main/themes/ketchup-and-mustard-1.0.0.zip",
+      "sha256": "d4dffc14dbf1921493fea451e86e6609caec379d831336d66e33bd8810d6a730",
+      "size": 2279,
+      "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/ketchup_and_mustard.png",
+      "tags": ["theme"]
+    }
+  ]
 }
