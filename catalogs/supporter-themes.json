@@ -15,6 +15,28 @@
       "size": 2279,
       "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/ketchup_and_mustard.png",
       "tags": ["theme"]
+    },
+    {
+      "id": "music_and_melody:modern_reborn",
+      "name": "Modern Reborn",
+      "description": "A green variant of the Modern theme",
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/blob/main/themes/modern-reborn-1.0.0.zip",
+      "sha256": "7e2f564ff2fb557ff4da33aff2611a561bf103b2af57ac19863e2f35ccbc9715",
+      "size": 2194,
+      "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/modern_reborn.png",
+      "tags": ["theme"]
+    },
+    {
+      "id": "music_and_melody:light_mode",
+      "name": "Light Mode",
+      "description": "For all 3 light mode enjoyers out there",
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/blob/main/themes/light-mode-1.0.0.zip",
+      "sha256": "ba8d597a5396c9f9fa5123f097bb68c90b4df7762205c2fd2fc23c2ac010ce78",
+      "size": 2124,
+      "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/light_mode.png",
+      "tags": ["theme"]
     }
   ]
 }
