@@ -48,7 +48,7 @@
       "size": 2124,
       "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/light_mode.png",
       "tags": ["theme"],
-      "dependencies": ["another-mod"]
+      "dependencies": ["another-mod", "another-mod2", "another-mod3", "another-mod4", "another-mod5"]
     }
   ]
 }
