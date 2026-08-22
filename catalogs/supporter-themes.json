@@ -37,6 +37,18 @@
       "size": 2124,
       "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/light_mode.png",
       "tags": ["theme"]
+    },
+    {
+      "id": "music_and_melody:test",
+      "name": "Test",
+      "description": "For all 3 light mode enjoyers out there",
+      "version": "1.0.0",
+      "url": "https://github.com/Rebel459/music-and-melody-remote/blob/main/themes/light-mode-1.0.0.zip",
+      "sha256": "ba8d597a5396c9f9fa5123f097bb68c90b4df7762205c2fd2fc23c2ac010ce78",
+      "size": 2124,
+      "icon": "https://github.com/Rebel459/music-and-melody-remote/blob/main/icons/light_mode.png",
+      "tags": ["theme"],
+      "dependencies": ["another-mod"]
     }
   ]
 }
